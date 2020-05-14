@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <id>1</id>
+        <firstName>Kamil</firstName>
+        <lastName>Blanik</lastName>
+        <salary>4123</salary>
+        <someText>łyse pole</someText>
+    </person>
+    <person>
+        <id>2</id>
+        <firstName>Bedasata</firstName>
+        <lastName>K</lastName>
+        <salary>112</salary>
+        <someText>brak</someText>
+    </person>
+</persons>
